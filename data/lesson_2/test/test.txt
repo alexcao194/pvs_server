@@ -1,0 +1,13 @@
+Cho $X(z) = \frac{1}{(z-1)^2(z-\frac{1}{2})}$. Với $|z|>1$. Tìm $x(n)=IZT\{X(z)\}$
+
+Từ công thức $X(z)$ đã cho, ta thấy mẫu số của $X(z)$ có <blank/>. Khi đó, $X(z)$ có thể phân tích thành <blank/>với các hệ số:
+
+<blank/> được xác định bởi <blank/> bằng <blank/>
+<blank/> được xác định bởi <blank/> bằng <blank/>
+<blank/> được xác định bởi <blank/> bằng <blank/>
+
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/>
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/>
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/>
+
+Kết quả cuối cùng $x(n)=$ <blank/>

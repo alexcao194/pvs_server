@@ -1,0 +1,59 @@
+Cho 
+$X(z) = \frac{1}{(z-1)^2(z-\frac{1}{2})}
+Với 
+$|z|>1
+Tìm 
+$x(n)=IZT\{X(z)\}
+<endline/>
+
+Từ công thức 
+$X(z) 
+đã cho, ta thấy mẫu số của 
+$X(z) 
+có <blank/>. <endline/>
+Khi đó, 
+$X(z) 
+có thể phân tích thành <blank/> với các hệ số: <endline/>
+
+<blank/> được xác định bởi <blank/> bằng <blank/> <endline/>
+<blank/> được xác định bởi <blank/> bằng <blank/> <endline/>
+<blank/> được xác định bởi <blank/> bằng <blank/> <endline/>
+
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/> <endline/>
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/> <endline/>
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/> <endline/>
+
+Kết quả cuối cùng 
+$x(n)=
+<blank/> <endline/>
+<end/>
+Cho 123
+$X(z) = \frac{1}{(z-1)^2(z-\frac{1}{2})}
+Với 
+$|z|>1
+Tìm 
+$x(n)=IZT\{X(z)\}
+<endline/>
+
+Từ công thức 
+$X(z) 
+đã cho, ta thấy mẫu số của 
+$X(z) 
+có <blank/>. <endline/>
+Khi đó, 
+$X(z) 
+có thể phân tích thành <blank/> với các hệ số: <endline/>
+
+<blank/> được xác định bởi <blank/> bằng <blank/> <endline/>
+<blank/> được xác định bởi <blank/> bằng <blank/> <endline/>
+<blank/> được xác định bởi <blank/> bằng <blank/> <endline/>
+
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/> <endline/>
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/> <endline/>
+Với thành phần <blank/> ta có biến đổi Z ngược bằng <blank/> <endline/>
+
+Kết quả cuối cùng 
+$x(n)=
+<blank/> <endline/>
+
+                  

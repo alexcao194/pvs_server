@@ -1,0 +1,100 @@
+Tín hiệu số là:
+Tín hiệu một chiều
+Tín hiệu xoay chiều
+Tín hiệu không có chiều
+\CTín hiệu rời rạc theo biên độ và theo biến số
+Hệ thống tuyến tính là:
+Hệ thống mà đầu ra là bình phương đầu vào
+Hệ thống mà đầu ra không phụ thuộc vào đầu vào
+\CHệ thống thỏa mãn nguyên lý xếp chồng
+Hệ thống nhân quả
+Câu hỏi thứ ba gồm những nội dung này câu có thể dài nhiều hơn hai trăm năm mươi lăm từ
+Phương án trả lời thứ nhất
+Phương án thứ hai
+\CPhương án đúng bắt đầu bằng \C
+Phương án cuối cùng
+Câu hỏi thứ tư gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ năm gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ sáu gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ bảy gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ tám gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ chín gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười một gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười hai gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười ba gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười bốn gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười năm gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười sáu gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười bảy gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười tám gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ mười chín gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
+Câu hỏi thứ hai mươi gồm những nội dung khác, câu khác
+Phương án thứ nhất
+Phương án thứ hai
+\CPhương án thứ ba
+Phương án thứ ba
