@@ -52,6 +52,12 @@ let getTestInfor = async (req, res) => {
     })
 }
 
+let getDocument = async(req, res) => {
+    await data.getDocument(req.body.lesson).then((value) => {
+        res.status(200).json({data : value})
+    })
+}
+
 
 module.exports = {
     getQuestion: getQuestion,
@@ -59,5 +65,6 @@ module.exports = {
     getLessons: getLessons,
     getTest: getTest,
     submitTest: submitTest,
-    getTestInfor: getTestInfor
+    getTestInfor: getTestInfor,
+    getDocument: getDocument
 }

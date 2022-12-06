@@ -128,6 +128,13 @@ let getLessons = () => {
     })
 }
 
+let getDocument = (lesson) => {
+    return new Promise((resolve, reject) => {
+        let data = fs.readFileSync(`data/${lesson}/document/document.txt`, 'utf-8')
+        resolve(data)
+    })
+}
+
 let getTestInfor = (id, lesson) => {
     return new Promise((resolve, reject) => {
         storage.createFolder(`data/${lesson}/test/${id}`)
@@ -153,5 +160,6 @@ module.exports = {
     getLessons: getLessons,
     getTest: getTest,
     submitTest: submitTest,
-    getTestInfor: getTestInfor
+    getTestInfor: getTestInfor,
+    getDocument: getDocument
 }

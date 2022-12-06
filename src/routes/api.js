@@ -21,6 +21,7 @@ router.post('/checkin', storageController.checkin.single('checkin'), storageCont
 router.use(authMiddleWare.isAuth);
 // List Protect APIs:
 router.get('/user', authController.getUser)
+router.get('/document', dataController.getDocument)
 router.post('/update-profile', authController.updateProfile)
 router.get('/question', dataController.getQuestion)
 router.get('/lessons', dataController.getLessons)
